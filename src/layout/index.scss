@@ -1,9 +1,10 @@
 @import '../styles/variables.scss';
 @import '../styles/light-theme.scss';
 @import '../styles/dark-theme.scss';
+@import '../styles/resume.scss';
 
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Raleway', sans-serif;
   background-color: $light-background-color;
   -webkit-text-size-adjust: antialiased;
   -moz-osx-font-smoothing: grayscale;

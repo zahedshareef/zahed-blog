@@ -1,7 +1,7 @@
 module.exports = {
   title: `Zahed`,
   description: `Blog posted about ...`,
-  author: `[Zahed]`,
+  author: `Zahed`,
   introduction: `doing software things`,
   siteUrl: `https://zahedblog.netlify.com`, // Your blog site url
   social: {
@@ -20,7 +20,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'zahed',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
